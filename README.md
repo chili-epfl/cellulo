@@ -4,6 +4,6 @@ This repository is the core public repository for Cellulo, featuring public medi
 
 
 <div>
-<img alt="Cellulo Icon" src="Cellulo.png" width="70%" />
+<img alt="Cellulo Icon" src="cellulo.png" width="70%" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
