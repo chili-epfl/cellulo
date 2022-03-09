@@ -4,10 +4,6 @@ This repository is the core public repository for Cellulo, featuring public medi
 
 Due to a pending paper publication in IROS, the current features and description of the project is hidden. Further information can be requested to victor.borja@epfl.ch
 
-<div>
-<img alt="Cellulo Icon" src="cellulo.png" width="40%" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
 ![Cellulo_Pacman_2b](https://user-images.githubusercontent.com/30259634/156397831-37004591-94e1-4843-bdff-60021197e6cc.png)
 
