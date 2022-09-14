@@ -4,10 +4,10 @@ Cellulo is a social, cognitive-motor assistive tabletop robot, created in the CH
 
 Cellulo is a graspable robot that through autonomous and precise movement on top of a paper printed map allows players to take part in a series of entertaining activities. Research has proved Cellulo to be effective in a number of applications: in the primary school curriculum, handwriting skills training for children with Neuro-Developmental Disorders, upper limb rehabilitation for stroke survivors and cognitive/motor training for older adults.  
 <p align="center">
-  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397831-37004591-94e1-4843-bdff-60021197e6cc.png" align="center" height="200" width="220" ></a>
-  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397838-43c90ecc-feb4-4c56-b7e0-bad30f18af49.jpg" align="center" height="200" width="220" ></a>
-  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397840-b10c4da0-c7b6-4d17-8a0b-383f7c9eb5b0.jpg" align="center" height="200" width="220" ></a>
-  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397842-71da7d3c-521e-4a58-a3ac-8c925f82b1a7.jpg" align="center" height="200" width="220" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397831-37004591-94e1-4843-bdff-60021197e6cc.png" align="center" height="200" width="200" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397838-43c90ecc-feb4-4c56-b7e0-bad30f18af49.jpg" align="center" height="200" width="200" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397840-b10c4da0-c7b6-4d17-8a0b-383f7c9eb5b0.jpg" align="center" height="200" width="200" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397842-71da7d3c-521e-4a58-a3ac-8c925f82b1a7.jpg" align="center" height="200" width="200" ></a>
 </p>
 
 
