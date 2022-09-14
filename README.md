@@ -3,26 +3,27 @@
 Cellulo is a social, cognitive-motor assistive tabletop robot, created in the CHILI Lab at EPFL. 
 
 Cellulo is a graspable robot that through autonomous and precise movement on top of a paper printed map allows players to take part in a series of entertaining activities. Research has proved Cellulo to be effective in a number of applications: in the primary school curriculum, handwriting skills training for children with Neuro-Developmental Disorders, upper limb rehabilitation for stroke survivors and cognitive/motor training for older adults.  
+<p align="center">
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397831-37004591-94e1-4843-bdff-60021197e6cc.png" align="center" height="200" width="220" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397838-43c90ecc-feb4-4c56-b7e0-bad30f18af49.jpg" align="center" height="200" width="220" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397840-b10c4da0-c7b6-4d17-8a0b-383f7c9eb5b0.jpg" align="center" height="200" width="220" ></a>
+  <a href="url"><img src="https://user-images.githubusercontent.com/30259634/156397842-71da7d3c-521e-4a58-a3ac-8c925f82b1a7.jpg" align="center" height="200" width="220" ></a>
+</p>
 
-![Cellulo_Pacman_2b](https://user-images.githubusercontent.com/30259634/156397831-37004591-94e1-4843-bdff-60021197e6cc.png)
-
-![_DSC6367](https://user-images.githubusercontent.com/30259634/156397838-43c90ecc-feb4-4c56-b7e0-bad30f18af49.jpg)
-
-![turquoise](https://user-images.githubusercontent.com/30259634/156397840-b10c4da0-c7b6-4d17-8a0b-383f7c9eb5b0.jpg)
-
-![Cellulo_Pacman_2d](https://user-images.githubusercontent.com/30259634/156397842-71da7d3c-521e-4a58-a3ac-8c925f82b1a7.jpg)
 
 ## Versions
 
-[Version 1]
+[Version 1](https://github.com/chili-epfl/CelluloV1)
 
-[Version 2]
+[Version 2](https://github.com/chili-epfl/CelluloV2)
 
 ## SDK
 
 ### Qt
 
 ### Unity
+
+[GitHub repository](https://github.com/chili-epfl/cellulo-unity-sdk)
 
 ## Activities
 
@@ -36,16 +37,27 @@ Cellulo has been used as tool to improve the psychomotor capacities of the user.
 
 ### Others
 
+## Utilities
+
+### Multi platform User interface
+
+A multi platform (iOS, Android, PC) application has been developed as a market place for the activities, as well as integrating data analytics from the user. It has been specifically tailored for elderly people users.
+
+[Cellulo Hub](https://github.com/Cellulo-Hub-Team/Hub)
+
+### Library for localization of the robot
+
+[Libdots](https://www.epfl.ch/labs/chili/dissemination/software/libdots/)
+
 ## Research
 
 The research backing the project as well as the different context of use can be found in - but not limited to - the following papers: https://cutt.ly/BPMz79y.
 
 ## Links
 
-[Official Website] (https://cellulo.ch/)
-[EPFL website] (https://www.epfl.ch/labs/chili/index-html/research/cellulo/)
+[Official website](https://cellulo.ch/)
+
+[EPFL website](https://www.epfl.ch/labs/chili/index-html/research/cellulo/)
 
 ## Collaborators
-
-
 
