@@ -19,8 +19,6 @@ Cellulo is a graspable robot that through autonomous and precise movement on top
 
 ## SDK
 
-### Qt
-
 ### Unity
 
 [GitHub repository](https://github.com/chili-epfl/cellulo-unity-sdk)
@@ -35,7 +33,6 @@ In the Cellulo Project, we are aiming to design and build the pencils of the fut
 
 Cellulo has been used as tool to improve the psychomotor capacities of the user. This is achieved via activities that require the player to move the robot along the specific scenario of the map, solving different challenges which might require speed, strength, dexterity, accuracy or strategic thinking. Such challenges help to maintain or even improve the player’s psychomotor capacities, as well as provide an environment to combat loneliness and boredom, thereby having a positive influence on the overall health status of the player. Our studies and interactions with potential users highlighted the potential of Cellulo as a gamified tool to assist older adults in maintaining a healthy life through activities that stimulate the user physically and cognitively while participating in social interaction. Hence, we are applying to the Spin-Fund with the goal of bringing Cellulo to the older adults market.
 
-### Others
 
 ## Utilities
 
@@ -59,5 +56,6 @@ The research backing the project as well as the different context of use can be 
 
 [EPFL website](https://www.epfl.ch/labs/chili/index-html/research/cellulo/)
 
-## Collaborators
+## Funding
+This project is funded by the Swiss National Science Foundation through the National Centre of Competence in Research (NCCR) Robotics
 
