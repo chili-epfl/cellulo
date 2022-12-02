@@ -36,7 +36,8 @@ Robot [Version 2](https://github.com/chili-epfl/CelluloV2)
 
 ## Unity SDK for activities development
 
-An SDK tool to develop activities for Cellulo using Unity 
+An SDK tool to develop activities for Cellulo using Unity.
+
 [SDK repository](https://github.com/chili-epfl/cellulo-unity-sdk)
 
 ## Multi platform User Application
