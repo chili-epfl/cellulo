@@ -28,7 +28,7 @@ All the content related with Cellulo, as well as documentation and tutorials can
 
 ## Robot Version
 
-The Cellulo robot is a project started in 2013. And as such, it has come a long way, with iterative processes and improvements. The project is composed of two core versions. A legacy version, a.k.a. Version 1, has been running for a long time, however, many of the electronic parts that constitute the robot has been discontinued or are out of stock. A new iteration started in 2021 is still under revision, with one stable prototype. 
+The Cellulo robot is a project started in 2013. And as such, it has come a long way, with iterative processes and improvements. The project is composed of two core versions. A legacy version, a.k.a. Version 1, has been running for a long time, however, many of the electronic parts that constitute the robot has been discontinued or are out of stock. A new iteration started in 2021. It is still under revision, with one stable prototype. 
 
 Robot [Version 1](https://github.com/chili-epfl/CelluloV1)
 
@@ -54,8 +54,7 @@ In the Cellulo Project, we are aiming to design and build the pencils of the fut
 
 ### Psychomotor 
 
-Cellulo has been used as a tool to improve the psychomotor capacities of the user. This is achieved via activities that require the player to move the robot along the specific scenario of the map, solving different challenges which might require speed, strength, dexterity, accuracy, or strategic thinking. Such challenges help to maintain or even improve the player’s psychomotor capacities, as well as provide an environment to combat loneliness and boredom, thereby having a positive influence on the overall health status of the player. Our studies and interactions with potential users highlighted the potential of Cellulo as a gamified tool to assist older adults in maintaining a healthy life through activities that stimulate the user physically and cognitively while participating in social interaction. Hence, we are applying to the Spin-Fund to bring Cellulo to the older adult market.
-
+Cellulo has been used as a tool to improve the psychomotor capacities of the user. This is achieved via activities that require the player to move the robot along the specific scenario of the map, solving different challenges which might require speed, strength, dexterity, accuracy, or strategic thinking. Such challenges help to maintain or even improve the player’s psychomotor capacities, as well as provide an environment to combat loneliness and boredom, thereby having a positive influence on the overall health status of the player. Our studies and interactions with potential users highlighted the potential of Cellulo as a gamified tool to assist older adults in maintaining a healthy life through activities that stimulate the user physically and cognitively while participating in social interaction. 
 
 ## Research
 
