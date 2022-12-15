@@ -67,5 +67,5 @@ The research backing the project as well as the different contexts of use can be
 [EPFL website](https://www.epfl.ch/labs/chili/index-html/research/cellulo/)
 
 ## Funding
-This project is funded by the Swiss National Science Foundation through the National Centre of Competence in Research (NCCR) Robotics
+This project is funded by the Swiss National Science Foundation through the [National Centre of Competence in Research (NCCR) Robotics](https://nccr-robotics.ch/)
 
